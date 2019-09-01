@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahhavutaiv.patriciazhou.com/sitemap.xml
